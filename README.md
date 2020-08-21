@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Continue dream on Python, Docker and Git
+- 😄 Continue dream on ✨<b>Python</b>, <b>Docker</b> and <b>Git</b>✨
 - 👯 I’m looking to collaborate
 
 <!--
