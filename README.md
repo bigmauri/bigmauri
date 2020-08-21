@@ -5,9 +5,9 @@
 - 🌱 thinking about: 💬<i>Dart</i>? <i>Go</i>? <i>Scala</i>? <i>Java</i>?💬
 
 
-| Portfolio | Stats  |
+| Portfolio |![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmmauri&layout=compact&hide=CSS,HTML,Javascript&show_owner=true&layout=compact)|
 |---|---|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmmauri&layout=compact&hide=CSS,HTML,Javascript&show_owner=true&layout=compact)   | ![](https://github-readme-stats.vercel.app/api?username=bmmauri&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&line_height=26)  |
+| Stats | ![](https://github-readme-stats.vercel.app/api?username=bmmauri&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&line_height=26)  |
 <!--
 **bmmauri/bmmauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
