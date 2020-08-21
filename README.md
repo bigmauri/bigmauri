@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 😄 Continue dream on ✨<b>Python</b>, <b>Docker</b> and <b>Git</b>✨
 - 👯 I’m looking to collaborate
+...
+- 🌱 thinking about: Dart? Go? Scala? Java?
 
 <!--
 **bmmauri/bmmauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
