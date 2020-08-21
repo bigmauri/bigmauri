@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 😄 Continue dream on Python, Docker and Git
+- 👯 I’m looking to collaborate
 
 <!--
 **bmmauri/bmmauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
