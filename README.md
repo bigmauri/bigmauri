@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Continue dream on ✨<b>Python</b>, <b>Docker</b>/<b>Kubernetes</b> and <b>Git</b>✨
+- 😄 Continue ✨<b>DevOps</b> in love with <b>Python</b>, <b>Docker</b>/<b>Kubernetes</b> and <b>Git</b>✨
 - 👯 I’m looking to collaborate
 - ... mmh
 - 🌱 thinking about: 💬<i>Dart</i>? <i>Go</i>? <i>Scala</i>? <i>Java</i>?💬
